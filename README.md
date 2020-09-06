@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in one of the hottest startups -Citoto.
 - 🌱 I’m currently learning Flutter.
