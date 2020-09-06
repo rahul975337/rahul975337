@@ -8,6 +8,7 @@
 - 👯 I’m looking for Internship Opportunities .
 - 🤔 I’m looking for help with Ideas.
 - 💬 Ask me about Flutter || Java.
+- 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
 - 😄 Pronouns: He/His.
 - ❤️ In Love with : Flutter
 - 📫 How to reach me: 
