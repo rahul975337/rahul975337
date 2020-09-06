@@ -15,4 +15,4 @@
   
 
 
-![Image](https://github-readme-stats.vercel.app/api?username=rahul975337&&show_icons=true&title_color=ffffff&icon_color=ffbf00&text_color=daf7dc&bg_color=27363e)
+![Image](https://github-readme-stats.vercel.app/api?username=rahul975337&&show_icons=true&title_color=ffffff&icon_color=ffbf00&text_color=ffffff&bg_color=27363e)
