@@ -6,7 +6,6 @@
 - 🔭 I’m currently working in one of the hottest startups -Citoto.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking for Internship Opportunities .
-- 🤔 I’m looking for help with Ideas.
 - 💬 Ask me about Flutter || Java.
 - 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
 - 😄 Pronouns: He/His.
