@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working in one of the hottest startups -Citoto.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking for Internship Opportunities .
 - 💬 Ask me about Flutter || Java.
 - 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
