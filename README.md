@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahul975337&show_icons=true&theme=dracula" alt="rahul975337" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahul975337&show_icons=true&theme=dracula&count_private=true" alt="rahul975337" />
 </p>
 
 <p align="center">
