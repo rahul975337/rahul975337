@@ -22,12 +22,10 @@
 <p align="center">
 <code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
 <code><img src="https://img.icons8.com/color/2x/css3.png"></code>
-     <code><img src="https://img.icons8.com/color/2x/javascript.png"></code>
-     <code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
-     <code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
-     
-
-<code><img src="https://img.icons8.com/color/2x/flutter.png"></code>
+ <code><img src="https://img.icons8.com/color/2x/javascript.png"></code>
+ <code><img src="https://img.icons8.com/color/2x/react-native.png"></code>
+ <code><img src="https://img.icons8.com/color/2x/flutter.png"></code>
+ <code><img src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png"></code>
 
 </p>
 </br>
