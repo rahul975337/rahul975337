@@ -20,11 +20,14 @@
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<code><a href="https://www.python.org/"><img src="https://img.icons8.com/color/2x/html-5.png"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://image.flaticon.com/icons/png/128/732/732190.png"></a></code>
-<code><a href="https://html.com/"><img src="https://image.flaticon.com/icons/png/128/136/136530.png"></a></code>
-<code><a href="https://github.com/rahul975337/"><img src="https://image.flaticon.com/icons/png/128/1260/1260667.png"></a></code>
-     <code><img src="https://img.icons8.com/color/2x/flutter.png"></code>
+<code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img src="https://img.icons8.com/color/2x/css3.png"></code>
+     <code><img src="https://img.icons8.com/color/2x/javascript.png"></code>
+     <code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
+     <code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
+     
+
+<code><img src="https://img.icons8.com/color/2x/flutter.png"></code>
 
 </p>
 </br>
