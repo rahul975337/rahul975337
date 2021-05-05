@@ -20,7 +20,7 @@
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<code><img src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code ><img width="20px" src="https://img.icons8.com/color/2x/html-5.png"></code>
 <code><img src="https://img.icons8.com/color/2x/css3.png"></code>
  <code><img src="https://img.icons8.com/color/2x/javascript.png"></code>
  <code><img src="https://img.icons8.com/color/2x/react-native.png"></code>
