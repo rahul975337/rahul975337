@@ -24,6 +24,7 @@
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://image.flaticon.com/icons/png/128/732/732190.png"></a></code>
 <code><a href="https://html.com/"><img src="https://image.flaticon.com/icons/png/128/136/136530.png"></a></code>
 <code><a href="https://github.com/rahul975337/"><img src="https://image.flaticon.com/icons/png/128/1260/1260667.png"></a></code>
+     <code><img src="https://img.icons8.com/color/2x/flutter.png"></code>
 
 </p>
 </br>
