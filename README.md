@@ -23,7 +23,7 @@
 <code><a href="https://www.python.org/"><img src="https://image.flaticon.com/icons/png/128/174/174854.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://image.flaticon.com/icons/png/128/732/732190.png"></a></code>
 <code><a href="https://html.com/"><img src="https://image.flaticon.com/icons/png/128/136/136530.png"></a></code>
-<code><a href="https://github.com/rahul975337/"><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1620221038~hmac=ec72b9c329138f65817107b9988ce99b"></a></code>
+<code><a href="https://github.com/rahul975337/"><img src="https://image.flaticon.com/icons/png/128/1260/1260667.png"></a></code>
 
 </p>
 </br>
