@@ -34,20 +34,20 @@
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com/rahul975337/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul975337&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul975337&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahul975337&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rahul975337&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
   </a>
 </p>
     
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode" alt="rahul975337" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode&count_private=true" alt="rahul975337" />
 </p>
 
 <p align="center">
