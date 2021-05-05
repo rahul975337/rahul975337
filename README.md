@@ -47,7 +47,7 @@
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode" alt="rahul975337" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode&count_private=true" alt="rahul975337" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul975337&theme=dracula&layout=compact" alt="rahul975337" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul975337&theme=dracula&layout=compact&count_private=true" alt="rahul975337" />
 </p>
 
 ### <h3 align="center"><a href="https://github.com/rahul975337">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
