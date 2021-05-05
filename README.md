@@ -20,12 +20,12 @@
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<code ><img width="50px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
-<code><img width="50px"  src="https://img.icons8.com/color/2x/css3.png"></code>
- <code><img width="50px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
- <code><img width="50px" src="https://img.icons8.com/color/2x/react-native.png"></code>
- <code><img width="50px" src="https://img.icons8.com/color/2x/flutter.png"></code>
- <code><img width="50px" src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png"></code>
+<code ><img width="70px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img width="70px"  src="https://img.icons8.com/color/2x/css3.png"></code>
+ <code><img width="70px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/react-native.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
+ <code><img width="70px" src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png"></code>
 
 </p>
 </br>
@@ -47,7 +47,7 @@
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode&count_private=true" alt="rahul975337" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode" alt="rahul975337" />
 </p>
 
 <p align="center">
