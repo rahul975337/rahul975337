@@ -10,28 +10,21 @@
     
 <h4>   
     
-- I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.
-- Currently Pursuing **B.Tech From **PSIT** Kanpur.**
-- I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"/>
+- I'm a 3<sup>rd</sup> Year ISE Student, **Programmer** and **Developer**.
+- Currently Pursuing **B.Tech From **JSSATE** Bengaluru.**
+
  
-<pre>  <b><a id="raw-url" href="https://cutt.ly/xbb7xSf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
+<pre>  <b><a id="raw-url" href="https://drive.google.com/file/d/1jXqAhdVCX7rJlyaaKq8l01jKBpj2N0d-/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
 
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<code><a href="https://www.python.org/"><img src="https://cutt.ly/ablze6q"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cutt.ly/TblcfEv"></a></code>
-<code><a href="https://html.com/"><img src="https://cutt.ly/nblcgXv"></a></code>
-<code><a href="https://github.com/rahul975337/"><img src="https://cutt.ly/tblcjad"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://cutt.ly/Lblckdy"></a></code>
-<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://cutt.ly/YblclfT"></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://cutt.ly/8blcxf9"></a></code>
-<code><a href="https://code.visualstudio.com/"><img src="https://cutt.ly/Tblccsg"></a></code>
-<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://cutt.ly/Dblcc6R"></a></code>
-<code><a href="https://www.canva.com/"><img src="https://cutt.ly/6blcbEW"></a></code>
-<code><a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://cutt.ly/AblcnIK"></a></code>
-<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cutt.ly/4blcmSw"></a></code>
+<code><a href="https://www.python.org/"><img src="https://image.flaticon.com/icons/png/128/174/174854.png"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://image.flaticon.com/icons/png/128/732/732190.png"></a></code>
+<code><a href="https://html.com/"><img src="https://image.flaticon.com/icons/png/128/136/136530.png"></a></code>
+<code><a href="https://github.com/rahul975337/"><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1620221038~hmac=ec72b9c329138f65817107b9988ce99b"></a></code>
+
 </p>
 </br>
 
