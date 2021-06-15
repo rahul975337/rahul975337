@@ -47,9 +47,9 @@
     
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
-<p align="center">
+<!-- <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=rahul975337&theme=xcode&count_private=true" alt="rahul975337" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rahul975337&show_icons=true&theme=dracula&count_private=true" alt="rahul975337" />
