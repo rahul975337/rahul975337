@@ -11,7 +11,7 @@
 <h4>   
     
 - I'm a 3<sup>rd</sup> Year ISE Student, **Programmer** and **Developer**.
-- Currently Pursuing **B.Tech From **JSSATE** Bengaluru.**
+- Currently Pursuing **B.E. From **JSSATE** Bengaluru.**
 
  
 <pre>  <b><a id="raw-url" href="https://drive.google.com/file/d/1jXqAhdVCX7rJlyaaKq8l01jKBpj2N0d-/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
