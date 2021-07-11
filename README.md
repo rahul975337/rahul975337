@@ -1,7 +1,7 @@
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{rahul975337}/count.svg) <br/>
 ![](https://komarev.com/ghpvc/?username=rahul975337)<br/>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rahul975337" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 <p align="center">
 <img src="https://github.com/rahul975337/rahul975337/blob/master/Content/Programmer.gif" width="200px">
 </p>
