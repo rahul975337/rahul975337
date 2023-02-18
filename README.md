@@ -10,7 +10,7 @@
     
 <h4>   
     
-- I'm a 3<sup>rd</sup> Software Developer at Zoho.
+- I'm a Software Developer at Zoho.
 
 
  
